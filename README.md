@@ -15,7 +15,7 @@ Capítulo campineiro do NodeSchool. Visite o nosso site para mais informações:
    * **Felipe Mattos:** GitHub: [@IAMFELIPEMATTOS](https://github.com/IAMFELIPEMATTOS), Twitter: [@IAMFELIPEMATTOS](https://twitter.com/IAMFELIPEMATTOS)
    * **Bruno Belarmino:** GitHub: [@brunobelarmino](https://github.com/brunobelarmino), Twitter: [@brbelarmino](https://twitter.com/brbelarmino)
    * **Bruno Panuto:** GitHub: [@nubunto](https://github.com/nubunto)
-   * **Rodolfo Pereira:** GitHub: [@rodolfoprr](https://github.com/rodolfoprr), Twitter: [@rodolfoprr](https://twitter.com/rodolfoprr)
+   * **Rodolfo parera:** GitHub: [@rodolfoprr](https://github.com/rodolfoprr), Twitter: [@rodolfoprr](https://twitter.com/rodolfoprr)
    * **Victor Perin:** GitHub: [@victorperin](https://github.com/victorperin)
 
 ## Apoio
